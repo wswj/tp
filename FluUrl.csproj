@@ -8,6 +8,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="JenKinsfile" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Jenkinsfile" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Autofac" Version="6.3.0" />
     <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="7.2.0" />
     <PackageReference Include="AutoMapper" Version="11.0.0" />

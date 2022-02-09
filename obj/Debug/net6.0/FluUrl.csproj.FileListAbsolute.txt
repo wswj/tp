@@ -13,7 +13,6 @@ D:\Project\coreproject\FluUrl\FluUrl\bin\Debug\net6.0\Newtonsoft.Json.dll
 D:\Project\coreproject\FluUrl\FluUrl\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\Project\coreproject\FluUrl\FluUrl\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Project\coreproject\FluUrl\FluUrl\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\Project\coreproject\FluUrl\FluUrl\obj\Debug\net6.0\FluUrl.csproj.AssemblyReference.cache
 D:\Project\coreproject\FluUrl\FluUrl\obj\Debug\net6.0\FluUrl.GeneratedMSBuildEditorConfig.editorconfig
 D:\Project\coreproject\FluUrl\FluUrl\obj\Debug\net6.0\FluUrl.AssemblyInfoInputs.cache
 D:\Project\coreproject\FluUrl\FluUrl\obj\Debug\net6.0\FluUrl.AssemblyInfo.cs
@@ -313,12 +312,6 @@ D:\Project\coreproject\FluUrl\FluUrl\bin\Debug\net6.0\Autofac.dll
 D:\Project\coreproject\FluUrl\FluUrl\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
 D:\Project\coreproject\FluUrl\FluUrl\bin\Debug\net6.0\AutoMapper.dll
 D:\Project\coreproject\FluUrl\FluUrl\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-D:\Project\coreproject\FluUrl\FluUrl\bin\Debug\net6.0\dist\NLog.config
-D:\Project\coreproject\FluUrl\FluUrl\bin\Debug\net6.0\dist\web.config
-D:\Project\coreproject\FluUrl\FluUrl\bin\Debug\net6.0\dist\appsettings.Development.json
-D:\Project\coreproject\FluUrl\FluUrl\bin\Debug\net6.0\dist\appsettings.json
-D:\Project\coreproject\FluUrl\FluUrl\bin\Debug\net6.0\dist\FluUrl.deps.json
-D:\Project\coreproject\FluUrl\FluUrl\bin\Debug\net6.0\dist\FluUrl.runtimeconfig.json
 D:\Project\coreproject\FluUrl\FluUrl\bin\Debug\net6.0\Crc32.NET.dll
 D:\Project\coreproject\FluUrl\FluUrl\bin\Debug\net6.0\Minio.dll
 D:\Project\coreproject\FluUrl\FluUrl\bin\Debug\net6.0\Minio.AspNetCore.dll
@@ -326,3 +319,4 @@ D:\Project\coreproject\FluUrl\FluUrl\bin\Debug\net6.0\RestSharp.dll
 D:\Project\coreproject\FluUrl\FluUrl\bin\Debug\net6.0\System.Reactive.dll
 D:\Project\coreproject\FluUrl\FluUrl\bin\Debug\net6.0\System.Reactive.Linq.dll
 D:\Project\coreproject\FluUrl\FluUrl\bin\Debug\net6.0\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Project\coreproject\FluUrl\FluUrl\bin\Debug\net6.0\appsettings.Production.json
