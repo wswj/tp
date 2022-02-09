@@ -4,7 +4,7 @@
     environment {
         IMAGENAME     = 'tp'       // 镜像名称
         IMAGETAG      = '1.0.0'         // 镜像标签
-        APPPORT       = '80'          // 应用占用的端口
+        APPPORT       = '443'          // 应用占用的端口
         APPDIR        = '/app'      // 应用工作的目录
     }
 
@@ -47,6 +47,7 @@
                 sh  'env'
                 sh  'echo "start edit Dockerfile"'
                 sh  'echo "FROM mcr.microsoft.com/dotnet/aspnet:6.0" >> Dockerfile'
+                sh  'echo "ENV ASPNETCORE_ENVIRONMENT Production" >> Dockerfile'
                 sh  'echo "COPY dist ${APPDIR}" >> Dockerfile'
                 sh  'echo "EXPOSE ${APPPORT}" >> Dockerfile'
                 sh  'echo "WORKDIR ${APPDIR}" >> Dockerfile'
