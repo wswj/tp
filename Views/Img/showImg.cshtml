@@ -1,0 +1,31 @@
+﻿
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "showImg";
+    
+}
+@model IEnumerable<string>;
+<h1>showImg</h1>
+<style>
+   a{
+   display:box;
+   width:28px;
+   height:28px;
+   border-radius: 50%;
+   position: fixed;
+   right:10px;
+   top:20px;
+   background-color:black;
+   opacity:0.2;}
+
+   
+</style>
+<body>
+    <div>
+        @foreach (var item in Model)
+{
+    <img src=/@ViewBag.th/@item />
+}
+<a href="/img/showImg?page=@ViewBag.page" target="_self"></a>
+    </div>
+</body>
